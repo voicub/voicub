@@ -114,15 +114,13 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               2 hrs 48 mins       █████████████████████████   99.52 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       ███████████████████████░░   91.53 % 
-Unknown Editor           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -138,7 +136,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2026 01:52:37 UTC
+ Last Updated on 08/05/2026 01:58:01 UTC
 <!--END_SECTION:waka-->
 
 
