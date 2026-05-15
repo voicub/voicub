@@ -69,8 +69,6 @@ final Map<String, dynamic> skirmish = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C554%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.56%20million%20lines%20of%20code-blue?style=flat)
@@ -87,43 +85,6 @@ final Map<String, dynamic> skirmish = <String, dynamic>{
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-🌆 Daytime                1400 commits        ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌃 Evening                560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-🌙 Night                  1701 commits        ██████████░░░░░░░░░░░░░░░   40.38 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Tuesday                  625 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Wednesday                818 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Thursday                 562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Friday                   657 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Sunday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-TypeScript               31 mins             █████████████████████████   98.35 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-
-🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -137,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 02:03:35 UTC
+ Last Updated on 15/05/2026 02:01:54 UTC
 <!--END_SECTION:waka-->
 
 
