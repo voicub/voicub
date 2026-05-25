@@ -69,7 +69,9 @@ final Map<String, dynamic> skirmish = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C564%20hrs%2040%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.56%20million%20lines%20of%20code-blue?style=flat)
 
@@ -112,18 +114,18 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               3 hrs 52 mins       ███████████████░░░░░░░░░░   59.23 % 
-Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+TypeScript               3 hrs 52 mins       ███████████████░░░░░░░░░░   61.76 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████░░░░   85.87 % 
-Claude Code              55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+VS Code                  5 hrs 21 mins       █████████████████████░░░░   85.27 % 
+Claude Code              55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 
 💻 Operating System: 
-Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -139,7 +141,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 02:05:31 UTC
+ Last Updated on 25/05/2026 02:13:21 UTC
 <!--END_SECTION:waka-->
 
 
