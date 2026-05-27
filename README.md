@@ -69,8 +69,6 @@ final Map<String, dynamic> skirmish = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C564%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.56%20million%20lines%20of%20code-blue?style=flat)
@@ -114,18 +112,14 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               3 hrs 24 mins       ██████████████████████░░░   86.06 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               58 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   98.39 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+VS Code                  56 mins             ████████████████████████░   96.02 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -141,7 +135,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 02:04:10 UTC
+ Last Updated on 27/05/2026 02:12:43 UTC
 <!--END_SECTION:waka-->
 
 
