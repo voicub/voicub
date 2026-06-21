@@ -2,7 +2,7 @@
 
 ```dart
 
-final Map<String, dynamic> skirmish = <String, dynamic>{
+final Map<String, dynamic> voicub = <String, dynamic>{
     'pronouns': 'he' ?? 'him',
     'description': <String>[
       'Optimistic',
