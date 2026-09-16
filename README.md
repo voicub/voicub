@@ -67,9 +67,9 @@ final Map<String, dynamic> voicub = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C567%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C569%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -114,19 +114,40 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      56 mins             █████████████░░░░░░░░░░░░   53.94 % 
+INI                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+C                        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 14 mins        ██████████████████░░░░░░░   71.06 % 
+VS Code                  30 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 25 mins (82.38%)
+
+✍️ 1,029 lines written by AI, 109 lines written by hand (90.42% AI-written)
+
+🔤 260,142 Input Tokens, 110,172 Output Tokens
+
+💵 $9.61 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 21 AI Prompts
+
+Opus                     1,029 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.42% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 9.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -142,7 +163,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 02:17:51 UTC
+ Last Updated on 16/09/2026 02:10:26 UTC
 <!--END_SECTION:waka-->
 
 
