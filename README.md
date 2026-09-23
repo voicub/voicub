@@ -114,43 +114,43 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.68 % 
-Markdown                 3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-YAML                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-SQL                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-C++                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+TypeScript               7 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.93 % 
+Markdown                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+YAML                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+SQL                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 55 mins      ████████████████████░░░░░   78.23 % 
-VS Code                  3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Claude Code              11 hrs 41 mins      ████████████████████░░░░░   79.07 % 
+VS Code                  3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 
 💻 Operating System: 
-Mac                      16 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 11 mins (91.94%)
+⏱ AI Coding Time: 13 hrs 45 mins (93.06%)
 
-✍️ 29,568 lines written by AI, 173 lines written by hand (99.42% AI-written)
+✍️ 28,539 lines written by AI, 64 lines written by hand (99.78% AI-written)
 
-🔤 13,010,922 Input Tokens, 1,291,274 Output Tokens
+🔤 12,750,780 Input Tokens, 1,181,102 Output Tokens
 
-💵 $431.26 Estimated AI Cost This Week
+💵 $421.65 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 107 AI Prompts
+🧠 8 AI Sessions, 86 AI Prompts
 
-Opus                     29,068 lines        ████████████████████████░   96.34 % 
-Nemotron                 1,104 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Opus                     28,039 lines        ████████████████████████░   96.21 % 
+Nemotron                 1,104 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.42% of written lines came from AI
-📚 Verbose Prompter — average 1,611 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🤖 AI-Driven — 99.78% of written lines came from AI
+📚 Verbose Prompter — average 1,953 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -166,7 +166,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 02:16:13 UTC
+ Last Updated on 23/09/2026 02:16:16 UTC
 <!--END_SECTION:waka-->
 
 
