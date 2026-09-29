@@ -114,41 +114,41 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-C++                      2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-TypeScript               1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Markdown                 1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+C++                      2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Markdown                 2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+TypeScript               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 58 mins       █████████████████████░░░░   82.74 % 
-VS Code                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Claude Code              7 hrs 21 mins       █████████████████████░░░░   83.51 % 
+VS Code                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 
 💻 Operating System: 
-Mac                      8 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 53 mins (93.79%)
+⏱ AI Coding Time: 8 hrs 17 mins (94.07%)
 
-✍️ 9,734 lines written by AI, 146 lines written by hand (98.52% AI-written)
+✍️ 10,285 lines written by AI, 146 lines written by hand (98.6% AI-written)
 
-🔤 4,755,793 Input Tokens, 629,045 Output Tokens
+🔤 6,309,610 Input Tokens, 666,880 Output Tokens
 
-💵 $167.76 Estimated AI Cost This Week
+💵 $190.12 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 79 AI Prompts
+🧠 9 AI Sessions, 82 AI Prompts
 
-Opus                     10,032 lines        █████████████████████████   100.00 % 
+Opus                     10,583 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.52% of written lines came from AI
-📄 Detailed Prompter — average 604 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.66% of changed lines were hand-edited
+🤖 AI-Driven — 98.6% of written lines came from AI
+📄 Detailed Prompter — average 585 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -164,7 +164,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 02:24:33 UTC
+ Last Updated on 29/09/2026 03:08:52 UTC
 <!--END_SECTION:waka-->
 
 
