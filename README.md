@@ -67,9 +67,9 @@ final Map<String, dynamic> voicub = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -87,70 +87,6 @@ final Map<String, dynamic> voicub = <String, dynamic>{
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                1406 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-🌙 Night                  1701 commits        ██████████░░░░░░░░░░░░░░░   40.32 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  625 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                818 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Thursday                 562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   657 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Saturday                 400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Sunday                   490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-C++                      2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-Markdown                 2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-TypeScript               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-
-🔥 Editors: 
-Claude Code              7 hrs 21 mins       █████████████████████░░░░   83.51 % 
-VS Code                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-
-💻 Operating System: 
-Mac                      8 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 17 mins (94.07%)
-
-✍️ 10,285 lines written by AI, 146 lines written by hand (98.6% AI-written)
-
-🔤 6,309,610 Input Tokens, 666,880 Output Tokens
-
-💵 $190.12 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 82 AI Prompts
-
-Opus                     10,583 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.6% of written lines came from AI
-📄 Detailed Prompter — average 585 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.52% of changed lines were hand-edited
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -164,7 +100,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 03:08:52 UTC
+ Last Updated on 30/09/2026 02:51:04 UTC
 <!--END_SECTION:waka-->
 
 
