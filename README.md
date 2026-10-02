@@ -114,40 +114,40 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-C++                      2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
-Markdown                 1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-C                        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+C++                      2 hrs 19 mins       ██████████████░░░░░░░░░░░   54.01 % 
+Markdown                 1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+C                        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 10 mins       ████████████████████░░░░░   78.35 % 
-VS Code                  1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Claude Code              3 hrs 14 mins       ███████████████████░░░░░░   75.43 % 
+VS Code                  1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
 
 💻 Operating System: 
-Mac                      5 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 53 mins (91.96%)
+⏱ AI Coding Time: 3 hrs 52 mins (90.1%)
 
-✍️ 3,950 lines written by AI, 20 lines written by hand (99.5% AI-written)
+✍️ 3,094 lines written by AI, 20 lines written by hand (99.36% AI-written)
 
-🔤 4,636,031 Input Tokens, 413,780 Output Tokens
+🔤 3,235,258 Input Tokens, 325,902 Output Tokens
 
-💵 $140.47 Estimated AI Cost This Week
+💵 $98.09 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 51 AI Prompts
+🧠 3 AI Sessions, 40 AI Prompts
 
-Opus                     4,149 lines         █████████████████████████   100.00 % 
+Opus                     3,265 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📝 Concise Prompter — average 493 characters per prompt
+🤖 AI-Driven — 99.36% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+🚀 High AI Trust — 0.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -163,7 +163,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 02:56:34 UTC
+ Last Updated on 02/10/2026 02:59:03 UTC
 <!--END_SECTION:waka-->
 
 
