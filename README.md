@@ -114,35 +114,34 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-Markdown                 20 mins             ████████████░░░░░░░░░░░░░   49.70 % 
-TypeScript               19 mins             ████████████░░░░░░░░░░░░░   49.14 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TypeScript               10 mins             ███████████████░░░░░░░░░░   58.68 % 
+Markdown                 7 mins              ██████████░░░░░░░░░░░░░░░   41.32 % 
 
 🔥 Editors: 
-Claude Code              40 mins             █████████████████████████   100.00 % 
+Claude Code              17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (100.0%)
+⏱ AI Coding Time: 17 mins (100.0%)
 
-✍️ 865 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 314 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,404,437 Input Tokens, 78,083 Output Tokens
+🔤 850,620 Input Tokens, 40,248 Output Tokens
 
-💵 $44.40 Estimated AI Cost This Week
+💵 $22.04 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Opus                     865 lines           █████████████████████████   100.00 % 
+Opus                     314 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
+📝 Concise Prompter — average 133 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -160,7 +159,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 02:51:55 UTC
+ Last Updated on 06/10/2026 03:42:47 UTC
 <!--END_SECTION:waka-->
 
 
