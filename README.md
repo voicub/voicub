@@ -114,36 +114,19 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               10 mins             ███████████████░░░░░░░░░░   58.68 % 
-Markdown                 7 mins              ██████████░░░░░░░░░░░░░░░   41.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (100.0%)
-
-✍️ 314 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 850,620 Input Tokens, 40,248 Output Tokens
-
-💵 $22.04 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Opus                     314 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 133 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -159,7 +142,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 03:42:47 UTC
+ Last Updated on 07/10/2026 03:09:06 UTC
 <!--END_SECTION:waka-->
 
 
