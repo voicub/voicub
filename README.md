@@ -114,43 +114,42 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               10 hrs 34 mins      ███████████████░░░░░░░░░░   58.56 % 
-Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+TypeScript               7 hrs 2 mins        ████████████████░░░░░░░░░   63.21 % 
+JavaScript               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-OMP                      14 hrs 12 mins      ████████████████████░░░░░   78.71 % 
-VS Code                  3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+OMP                      9 hrs 44 mins       ██████████████████████░░░   87.43 % 
+VS Code                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 
 💻 Operating System: 
-Mac                      18 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 7 mins (94.86%)
+⏱ AI Coding Time: 10 hrs 58 mins (98.47%)
 
-✍️ 9,282 lines written by AI, 33 lines written by hand (99.65% AI-written)
+✍️ 8,407 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 643,479,564 Input Tokens, 2,372,347 Output Tokens
+🔤 592,940,425 Input Tokens, 2,088,156 Output Tokens
 
-💵 $1519.63 Estimated AI Cost This Week
+💵 $1396.13 Estimated AI Cost This Week
 
-🧠 3427 AI Sessions, 324 AI Prompts
+🧠 3037 AI Sessions, 286 AI Prompts
 
-OMP                      9,282 lines         █████████████████████████   100.00 % 
+OMP                      8,407 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📄 Detailed Prompter — average 532 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 523 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.45% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -166,7 +165,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 02:23:57 UTC
+ Last Updated on 22/10/2026 02:18:58 UTC
 <!--END_SECTION:waka-->
 
 
