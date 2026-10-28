@@ -67,9 +67,9 @@ final Map<String, dynamic> voicub = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C654%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C656%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -114,43 +114,43 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-TypeScript               14 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.62 % 
-Other                    6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Markdown                 4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Image (png)              2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-JavaScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+TypeScript               15 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   41.87 % 
+Other                    6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Markdown                 5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Image (png)              2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JavaScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-OMP                      30 hrs 59 mins      ██████████████████████░░░   87.41 % 
-VS Code                  4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+OMP                      32 hrs 15 mins      ██████████████████████░░░   87.16 % 
+VS Code                  4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      35 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 32 mins (97.42%)
+⏱ AI Coding Time: 36 hrs 5 mins (97.53%)
 
-✍️ 9,566 lines written by AI, 33 lines written by hand (99.66% AI-written)
+✍️ 10,427 lines written by AI, 34 lines written by hand (99.67% AI-written)
 
-🔤 2,135,585,758 Input Tokens, 9,568,772 Output Tokens
+🔤 2,155,877,732 Input Tokens, 9,752,270 Output Tokens
 
-💵 $5080.07 Estimated AI Cost This Week
+💵 $5125.22 Estimated AI Cost This Week
 
-🧠 10501 AI Sessions, 2471 AI Prompts
+🧠 10763 AI Sessions, 2488 AI Prompts
 
-OMP                      9,566 lines         █████████████████████████   100.00 % 
+OMP                      10,427 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
+🤖 AI-Driven — 99.67% of written lines came from AI
 📝 Concise Prompter — average 107 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -166,7 +166,7 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 02:47:09 UTC
+ Last Updated on 28/10/2026 02:56:00 UTC
 <!--END_SECTION:waka-->
 
 
